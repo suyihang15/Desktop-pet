@@ -4,12 +4,11 @@
 
 ## 运行方法
 
-1. 确保已安装 Python 3。
+1. 确保已安装 Python 3.11
 2. 在项目根目录运行：
 
-```bash
 python src/main.py
-```
+
 
 ## 操作说明
 
