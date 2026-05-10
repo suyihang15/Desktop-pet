@@ -7,8 +7,8 @@
 1. 确保已安装 Python 3.11
 2. 在项目根目录运行：
 
-python src/main.py
-
+python main.py   
+或者直接下载本人打包好的exe文件
 
 ## 操作说明
 
