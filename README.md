@@ -17,4 +17,9 @@ python src/main.py
 - 鼠标右键打开菜单，可关闭桌宠或切换心情。
 - 鼠标中键可切换状态。
 
-桌宠会在桌面上自动移动，并根据心情展示不同表情。
+桌宠会在桌面上自动移动，并根据心情展示不同表情。   
+
+## 效果展示
+<img width="367" height="294" alt="屏幕截图 2026-05-10 115824" src="https://github.com/user-attachments/assets/f1f9355a-626e-49be-a251-3016ffad057d" />
+
+
