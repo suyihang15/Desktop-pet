@@ -22,4 +22,4 @@ python main.py
 <img width="367" height="294" alt="屏幕截图 2026-05-10 115824" src="https://github.com/user-attachments/assets/f1f9355a-626e-49be-a251-3016ffad057d" />
 
 
-其本身并没有任何图片纯是利用tkinter这一内置模块搞出来的，希望大家喜欢
+其本身并没有任何图片纯是利用tkinter这一内置模块搞出来的，也不需要安装任何第三方库，希望大家喜欢
